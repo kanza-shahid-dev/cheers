@@ -1,4 +1,4 @@
-# cheers
+# Cheers
 #### Cheers App
 Project files are in master branch
 
